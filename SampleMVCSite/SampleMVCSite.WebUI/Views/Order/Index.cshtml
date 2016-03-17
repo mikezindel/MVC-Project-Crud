@@ -1,0 +1,60 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<SampleMVCSite.Models.Order>
+
+@{
+    ViewBag.Title = "Orders";
+}
+
+
+<h2>Orders</h2>
+
+<p>
+    <a class="btn btn-success" href=@Url.Action("Create", "Order")>Add New</a>
+</p>
+
+<table class="table box">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderItems)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.OrderId)
+                <br />
+                <a class="btn btn-warning" href=@Url.Action("Details", "Order", new { id = item.OrderId })>Details</a>
+                <a class="btn btn-danger" href=@Url.Action("Delete", "Order", new { id = item.OrderId })>Delete</a>
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.OrderDate)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderItems)
+            </td>
+
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Misty Mountain Water</h1>
+    <p class="lead">Misty Mountain Water comes right from cold crisp montains. Filled with earths greatest minerals no water will ever taste the same</p>
+    <p><a href="@Url.Action("Index", "Info")" class="btn btn-primary btn-lg">Learn more </a></p>
+</div>
+<body  background="../../Content/img/intro-bg.jpg">
+</body>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Product</h2>
+        <p>
+            Buy Misty Mountain Water today to see what your life has always been missing. Dont wait any longer, you deserve this. Click here to see all of our crisp water options.
+        </p>
+        <p><a class="btn btn-default" href="@Url.Action("Index", "Product")">Learn more </a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Customer</h2>
+        <p>Dont believe us? Read responses from our cusomter list and how much this water changed their life.</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index", "Customer")">Learn more </a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Order</h2>
+        <p>Check your order to really make sure you have enough because you wont be able to put this down.</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index", "Order")">Learn more </a></p>
+    </div>
+</div>

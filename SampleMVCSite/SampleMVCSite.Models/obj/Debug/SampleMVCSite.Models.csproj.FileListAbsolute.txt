@@ -1,0 +1,69 @@
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\mzindel0518\Desktop\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+G:\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+E:\Assignment 2 MistyWater\SampleMVCSite\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb

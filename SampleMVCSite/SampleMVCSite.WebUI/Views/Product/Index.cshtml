@@ -1,0 +1,61 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@model IEnumerable<SampleMVCSite.Models.Product>
+
+
+@{
+    ViewBag.Title = "Product";
+}
+<h2>Index</h2>
+
+    <p>
+        <a class="btn btn-success" href=@Url.Action("Create", "Product")>Add New</a>
+    </p>
+
+    <table class="table box" >
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostPrice)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <span class="lgtext">
+                        @Html.DisplayFor(modelItem => item.Description)
+                        </span>
+                        <br />
+                        <a class="btn btn-warning" href=@Url.Action("Details", "Product", new { id = item.ProductId })>Details</a>
+                        <a class="btn btn-danger" href=@Url.Action("Delete", "Product", new { id = item.ProductId })>Delete</a>
+</td>
+                <td>
+
+                    <img class="prodImg" src=@Url.Content(item.ImageUrl)>
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CostPrice)
+                </td>
+
+            </tr>
+        }
+
+    </table>

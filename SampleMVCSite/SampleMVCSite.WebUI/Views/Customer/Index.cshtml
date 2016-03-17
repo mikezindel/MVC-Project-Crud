@@ -1,0 +1,62 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<SampleMVCSite.Models.Customer>
+
+@{
+    ViewBag.Title = "Customers";
+}
+
+
+<h2>Customers</h2>
+
+<p>
+    <a class="btn btn-success" href=@Url.Action("Create", "Customer")>Add New</a>
+</p>
+
+<table class="table box">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Town)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HomePhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <span class="lgtext">
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </span>
+                <br />
+                <a class="btn btn-warning" href=@Url.Action("Details", "Customer", new { id = item.CustomerId })>Details</a>
+                <a class="btn btn-danger" href=@Url.Action("Delete", "Customer", new { id = item.CustomerId })>Delete</a>
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Town)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HomePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+
+        </tr>
+    }
+
+</table>
+
